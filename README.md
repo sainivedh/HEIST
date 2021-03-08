@@ -1,5 +1,9 @@
 # HEIST - Hindi English Inword Spelling Transliterator
 
+# Point - Shoot - Translate - Listen
+<br />
+<br />
+<br />
 **Quick Demo**
 
 <div align="left">
@@ -8,21 +12,18 @@
       </a>
 </div>
 <br />
-<br />
-<br />
+
 Data can be downloaded from - https://ai4bharat.org/articles/sign-board
 
-<br />
-<br />
-<br />
 
-**Point - Shoot - Translate - Listen**<br />
+**Model Pipeline**
+![alt text](https://github.com/sainivedh/HEIST/blob/main/model%20pipeline.jpg)
 
 
-
-Made from scratch with No external API used except for google TextTOSpeech (gTTS) <br />
+Made from scratch with No external API used except for google TextToSpeech (gTTS) <br />
 Model weights for Hindi Text detection and Seq2Seq with attention are provided, weights for CTC inference are still under improvement
 
+**Results**
 ![alt text](https://github.com/sainivedh/HEIST/blob/main/bhopal_yolo.jpg)
 ![alt text](https://github.com/sainivedh/HEIST/blob/main/bhopal.jpg)
 
